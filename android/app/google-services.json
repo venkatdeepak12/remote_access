@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "891877844042",
+    "firebase_url": "https://remote-2e447.firebaseio.com",
+    "project_id": "remote-2e447",
+    "storage_bucket": "remote-2e447.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891877844042:android:21b270a0e230b916d4b2b3",
+        "android_client_info": {
+          "package_name": "comrohanseela.github.remote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891877844042-ms2jo58l3judj814qf2fm175surhchdf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "comrohanseela.github.remote",
+            "certificate_hash": "3be28aba793d39ac0282db31c50e8749666c631f"
+          }
+        },
+        {
+          "client_id": "891877844042-5gvk496fa3mf0lqvji8usifdt6pbdjao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQlrDo3ma2Wu6euotl0iBWh3Zzmm-hNjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891877844042-5gvk496fa3mf0lqvji8usifdt6pbdjao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
